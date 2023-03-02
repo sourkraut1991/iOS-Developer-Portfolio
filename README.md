@@ -43,7 +43,7 @@ This chat app will introduce you to working with the users Address Book, interes
 -  SwiftUI
 -  JSON
 
-##Module 5: [Learning App](https://github.com/sourkraut1991/https://github.com/sourkraut1991/LearningApp)
+##Module 5: [Learning App](https://github.com/sourkraut1991/LearningApp)
 <!-- Add Images --> 
 
 **Tech Used**
