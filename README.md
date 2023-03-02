@@ -29,7 +29,7 @@ This chat app will introduce you to working with the users Address Book, interes
 - Figma
 - Address Book
 
-## Fundamentals Course from [Code With Chris](https://pages.github.com/)
+## Fundamentals Course from [Code With Chris](https://learn.codewithchris.com/courses/foundations)
 
 ##Module 1: War Card Game
 <!-- Add Images -->
