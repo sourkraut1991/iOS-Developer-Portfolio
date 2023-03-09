@@ -11,6 +11,7 @@ AFSpace-A is an app for current and prior military personnel. It will provide th
 **Tech Used**
 -  SwiftUI
 -  JSON
+-  API
 
 
 ## [ChatApp](https://github.com/sourkraut1991/SwiftUI-Chat) from [Code With Chris](https://learn.codewithchris.com/courses/chat)
