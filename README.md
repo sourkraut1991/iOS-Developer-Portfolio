@@ -11,7 +11,6 @@ PlanMeals is an app I take personally. You create a list of entrees that you mak
 **Tech Used**
 -  SwiftUI
 -  JSON
--  API
 
 ## AFSpace-A - IN DEVELOPMENT. https://github.com/sourkraut1991/AFSpaceA
 AFSpace-A is an app for current and prior military personnel. It will provide the bases you can fly in and out from, contact information, and direct link to where you can signup for a flight. Pictures to come 
