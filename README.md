@@ -2,8 +2,8 @@
 
 ### 👋 Hello! I'm a self-taught iOS Developer, looking to build a portfolio to eventually get an iOS Developer career. Here's a bit of what I've been working on.
 
-## [PlanMeals](https://github.com/sourkraut1991/Hungry-)
-PlanMeals is an app I take personally. You create a list of entrees that you make, then make a 7-day randomized plan. This will do the thinking for you and will help you plan what you need to buy for food each week.  
+## [PlanMeals - IN DEVELOPMENT](https://github.com/sourkraut1991/Hungry-)
+You create a list of entrees that you make, then make a 7-day randomized plan. This will do the thinking for you and will help you plan what you need to buy for food each week.  
 <p align="center">
 <!-- Add Images -->
  </p>
